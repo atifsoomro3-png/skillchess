@@ -1,0 +1,7 @@
+
+> skillchess-server@1.0.0 dev
+> node src/index.js
+
+(node:5784) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+SkillChess API running on http://localhost:4000
